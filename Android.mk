@@ -146,6 +146,7 @@ common_SRC_FILES := \
     toys/other/which.c \
     toys/other/xxd.c \
     toys/other/yes.c \
+    toys/pending/crontab.c \
     toys/pending/dd.c \
     toys/pending/diff.c \
     toys/pending/expr.c \
@@ -263,6 +264,7 @@ ALL_TOOLS := \
     cmp \
     cp \
     cpio \
+    crontab \
     cut \
     date \
     df \
